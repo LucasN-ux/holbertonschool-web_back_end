@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+"""Defines a function to_kv that takes a string k and an int or float v and returns a tuple.
+"""
+
 
 def to_kv(k: str, v: int | float) -> tuple:
     """Returns a tuple of the key and value.

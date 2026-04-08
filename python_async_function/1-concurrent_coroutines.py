@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+"""Defines a function wait_n that takes in 2 int arguments (in this order) and returns a list of all the delays (float values) of the n calls to wait_random.
+"""
 
 import asyncio
 import random
