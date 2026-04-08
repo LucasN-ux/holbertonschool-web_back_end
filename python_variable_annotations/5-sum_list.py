@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Defines a function sum_list that takes a list of floats as input and returns their sum as a float.
+"""Defines a function sum_list that takes a list of floats as
+input and returns their sum as a float.
 """
 
 

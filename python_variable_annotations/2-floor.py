@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Defines a function floor that takes a float n and returns the floor of the float.
+"""Defines a function floor that takes a float n and returns the
+floor of the float.
 """
 
 

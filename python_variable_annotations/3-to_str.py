@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Defines a function to_str that takes a float n and returns the string representation of the float.
+"""Defines a function to_str that takes a float n and returns
+the string representation of the float.
 """
 
 

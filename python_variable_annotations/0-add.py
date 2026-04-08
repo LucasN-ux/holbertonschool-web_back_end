@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Defines a function add that takes two floats and returns their sum as a float.
+"""Defines a function add that takes two floats and returns their
+sum as a float.
 """
 
 

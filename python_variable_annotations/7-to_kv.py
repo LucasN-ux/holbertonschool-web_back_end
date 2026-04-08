@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Defines a function to_kv that takes a string k and an int or float v and returns a tuple.
+"""Defines a function to_kv that takes a string k
+and an int or float v and returns a tuple.
 """
 
 
