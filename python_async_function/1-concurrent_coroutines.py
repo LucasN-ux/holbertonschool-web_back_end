@@ -20,4 +20,5 @@ async def wait_n(n: int, max_delay: int) -> list[float]:
         list[float]: A list of the actual delay times for each call.
     """
     tasks = [wait_random(max_delay) for _ in range(n)]
-    return await asyncio.gather(*tasks)
+    delays = await asyncio.gather(*tasks)
+    return delays
