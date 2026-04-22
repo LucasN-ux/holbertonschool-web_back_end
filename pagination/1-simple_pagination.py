@@ -60,4 +60,3 @@ class Server:
         if indexes[0] >= len(dataset):
             return []
         return dataset[indexes[0]:indexes[1]]
-
