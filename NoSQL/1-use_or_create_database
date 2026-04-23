@@ -1,0 +1,2 @@
+// To create a new database, simply use the `use` command followed by the name of the database you want to create. If the database does not exist, MongoDB will create it for you when you first store data in it.
+use my_db
