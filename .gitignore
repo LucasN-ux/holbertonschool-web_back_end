@@ -29,3 +29,7 @@ node_modules/
 package-lock.json
 package.json
 nodesource_setup.sh
+ES6_basic/package.json
+ES6_basic/package-lock.json
+.eslintrc.js
+babel.config.js
