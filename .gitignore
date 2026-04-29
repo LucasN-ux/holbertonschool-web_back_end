@@ -31,5 +31,7 @@ package.json
 nodesource_setup.sh
 ES6_basic/package.json
 ES6_basic/package-lock.json
+ES6_classes/package.json
+ES6_classes/package-lock.json
 .eslintrc.js
 babel.config.js
