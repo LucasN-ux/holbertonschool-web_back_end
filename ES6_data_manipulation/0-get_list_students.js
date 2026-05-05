@@ -1,7 +1,9 @@
 export default function getListStudentsIds() {
-  const guillaume = { id: 1, firstName: 'Guillaume', location: 'San Francisco' };
-  const james = { id: 2, firstName: 'James', location: 'Columbia' };
-  const alicia = { id: 5, firstName: 'Alicia', location: 'Paris' };
-  
-  return [guillaume, james, alicia]
+  const students = [
+    { id: 1, firstName: 'Guillaume', location: 'San Francisco' },
+    { id: 2, firstName: 'James', location: 'Columbia' },
+    { id: 5, firstName: 'Serena', location: 'San Francisco' }
+  ];
+
+  return students;
 }
