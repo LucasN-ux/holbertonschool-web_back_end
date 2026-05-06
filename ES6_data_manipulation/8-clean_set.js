@@ -1,5 +1,5 @@
 export default function cleanset(set, startString) {
-    if (startString.length === 0) {
+    if (!startString || startString.length === 0) {
         return "";
     }
     const string = [];
